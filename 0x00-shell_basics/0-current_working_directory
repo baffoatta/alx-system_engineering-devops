@@ -1,0 +1,3 @@
+#!/bin/bush
+#script to print current directory 
+pwd
