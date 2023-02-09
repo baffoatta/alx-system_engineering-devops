@@ -1,3 +1,2 @@
-#!/bin/bush
-#script to print current directory 
+#!/bin/bash
 pwd
