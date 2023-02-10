@@ -1,2 +1,2 @@
-#!/bin/bush
-${BASH_SOURCE:-$0}
+#!/bin/bash
+pwd
